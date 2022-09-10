@@ -1,0 +1,35 @@
+.poemtitle {
+    position: relative;
+    text-align: center;
+    background-color: transparent;
+    font-size: large;
+    color: antiquewhite;
+    text-decoration: none;
+    text-shadow: 1px 1px rgba(32, 32, 32, 0.5);
+}
+
+.poemdateauthor {
+    position: relative;
+    text-align: center;
+    background-color: transparent;
+    font-size: xx-small;
+    margin-top: -15px;
+    font-style: italic;
+    color: antiquewhite;
+    text-decoration: none;
+    text-shadow: 1px 1px rgba(32, 32, 32, 0.5);
+}
+
+.poemline {
+    white-space: pre;
+    text-align: left;
+    color: antiquewhite;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
+}
+
+.poemindex {
+    color: gray;
+    font-family: monospace;
+}

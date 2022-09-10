@@ -1,0 +1,13 @@
+[{
+    "id": 1,
+    "date": "IX2022",
+    "title": "O prawdzie",
+    "description": "Wiersz o prawdzie",
+    "content": ["Przez wzloty i upadki, nieskalana siła -", "Prawda, w ukryciu osobliwości swej rada;"]
+}, {
+    "id": 2,
+    "date": "III2022",
+    "title": "Iskra Khetnana",
+    "description": "O iskrze, która zmienia ludzi",
+    "content": "content"
+}]

@@ -1,0 +1,17 @@
+div {
+    text-align: center;
+    font-size: small;
+}
+
+.innerdiv {
+    color: antiquewhite;
+    text-align: justify;
+    margin-top: 80px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.listlink {
+    color: antiquewhite;
+    text-decoration: underline;
+}
