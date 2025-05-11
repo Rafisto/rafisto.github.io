@@ -1,0 +1,73 @@
+[
+    {
+        "title": "Kontakt",
+        "content": [
+            " ",
+            "rafal.piotr.wlodarczyk@gmail.com",
+            "+48 795 425 363",
+            " ",
+            "Wrocław, Polska"
+        ]
+    },
+    {
+        "title": "Strona Internetowa",
+        "content": [
+            {
+                "type": "Link",
+                "name": "rafisto.github.io",
+                "href": "https://rafisto.github.io"
+            }
+        ]
+    },
+    {
+        "title": "Umiejętności Językowe",
+        "content": [
+            "🇵🇱 Polski C2",
+            "🇬🇧 English C1",
+            "🇩🇪 Deutsch B1+"
+        ]
+    },
+    {
+        "title": "Informatyka",
+        "content": [
+            {
+                "type": "Skill",
+                "name": "Python",
+                "level": 80
+            },
+            {
+                "type": "Skill",
+                "name": "Docker",
+                "level": 75
+            },
+            {
+                "type": "Skill",
+                "name": "Kubernetes",
+                "level": 65
+            },
+            {
+                "type": "Skill",
+                "name": "Git",
+                "level": 60
+            },
+            {
+                "type": "Skill",
+                "name": "React",
+                "level": 70
+            },
+            {
+                "type": "Skill",
+                "name": "Unix",
+                "level": 60
+            }
+        ]
+    },
+    {
+        "title": "Zainteresowania",
+        "content": [
+            "Gitara",
+            "Elektronika",
+            "Literatura piękna"
+        ]
+    }
+]

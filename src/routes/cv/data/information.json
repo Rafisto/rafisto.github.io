@@ -1,0 +1,78 @@
+[
+    {
+        "title": "Podsumowanie",
+        "description": {
+            "title": "",
+            "content": "Dążę do ciągłego doskonalenia się i wykorzystywania moich umiejętności w obszarze informatyki algorytmicznej, Full Stack oraz DevOps, aby efektywnie wspierać rozwój technologiczny oraz osiągać wyznaczone cele z determinacją i zaangażowaniem."
+        }
+    },
+    {
+        "title": "Edukacja",
+        "description": [
+            {
+                "title": "Szkoła wyższa (2023 - )",
+                "content": "Informatyka Algorytmiczna - Politechnika Wrocławska"
+            },
+            {
+                "title": "Szkoła średnia (2019 - 2023)",
+                "content": "Akademickie Liceum Ogólnokształcące Politechniki Wrocławskiej"
+            }
+        ]
+    },
+    {
+        "title": "Doświadczenie",
+        "description": [
+            {
+                "title": "Wrocławskie Centrum Sieciowo-Superkomputerowe (2023 - )",
+                "content": "Team DevOps. Zarządzanie klastrem k8s oraz continous integration. Projektant i twórca wewnętrznych narzędzi firmy. Technologie oraz programy: Docker, Git, GitLab CI, Flask, React, Figma, PostgreSQL, Nginx, AWS S3, DinD, Aptainer, Helm, Kubernetes, Velero, Bash."
+            },
+            {
+                "title": "Prowadzący w ALO PWr (2022 - )",
+                "content": "Od roku 2022 prowadzę zajęcia z programowania i elektroniki w ALO PWr, Cykl zajęć obejmuje prototypowanie i wytwarzanie urządzeń elektronicznych oraz serwisów sieciowych."
+            }
+        ]
+    },
+    {
+        "title": "Osiągnięcia",
+        "description": [
+            {
+                "title": "Międzynarodowy konkurs CTF Cybertron (2023)",
+                "content": "Współtworzyłem dwa zadania konkursowe, utworzyłem zasób repozytoriów. Wdrożyłem wszystkie zadania na infrastrukturę kubernetes, oraz pisałem skrypty pomocnicze CI."
+            },
+            {
+                "title": "Laureat Ogólnopolskiego Konkursu Studium Talent (2023)",
+                "content": "Uzyskałem na egzaminie z Fizyki wynik bardzo dobry. Umożliwiła mi ona przyjęcie na studia z pominięciem wzkaźnika rekrutacyjnego. Pierwszy semestr ukończyłem ze średnią 5.0"
+            },
+            {
+                "title": "Projekt autorskiej strony internetowej oraz bloga (2021 - )",
+                "content": "Prowadzę autorską stronę internetową, na której umieszczam artykuły, osiągnięcia, zasoby kodu oraz moją twórczość artystyczną. Od niedawna prowadzę bloga www.rwlodarczyk.pl"
+            }
+        ]
+    },
+    {
+        "title": "Certyfikaty",
+        "description": [
+            {
+                "title": "Meta Professional Backend Certificate (2024 - )",
+                "content": "W trakcie (5/9), dotychczas potwiedzone umiejętności z zakresu: Python, VCS - Git, Projektowanie bazy danych oraz SQL, Django web framework"
+            },
+            {
+                "title": "Certyfikat Harvard CS50P (2023)",
+                "content": "Ukończyłem kurs programowania Harvard CS50 w języku Python."
+            },
+            {
+                "title": "Certyfikat EFSET 85/100 (2022)",
+                "content": "Uzyskałem wynik 85/100 - C2 Proficient w EF Standard English Test."
+            }
+        ]
+    },
+    {
+        "title": "Stack",
+        "description": [
+            {
+                "title": "",
+                "content": ""
+            }
+        ]
+    }
+]

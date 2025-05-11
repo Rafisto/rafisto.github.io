@@ -1,0 +1,27 @@
+@keyframes jumbomove {
+    0% {
+        transform: translateX(0%);
+    }
+
+    50% {
+        transform: translateX(-10%);
+    }
+
+    100% {
+        transform: translateX(0%);
+    }
+}
+
+.jumbomove {
+    animation: jumbomove 20s ease-in-out;
+    animation-iteration-count: infinite;
+}
+
+.parallax { 
+    height:100vh;
+    background-image: url("/jumbo.png");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}

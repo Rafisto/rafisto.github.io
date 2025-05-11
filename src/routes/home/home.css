@@ -1,0 +1,42 @@
+@media only screen and (max-width: 600px) {
+    .bmain {
+        margin-block: 10px;
+        padding-block: 10px;
+        padding-inline: 0px;
+    }
+}
+
+@media only screen and (min-width: 600px) {
+    .bmain {
+        margin-block: 10px;
+        padding-block: 20px;
+        padding-inline: 100px;
+    }
+}
+
+@media only screen and (min-width: 900px) {
+    .bimg {
+        border-left: 1px solid #009bff;
+    }
+    .brimg {
+        border-right: 1px solid #009bff;
+    }
+}
+
+/* Currently unused - window inset gradient */
+/* .bmain { */
+    /* background: #009bff; */
+    /* background: linear-gradient(148deg, rgba(0, 40, 233, 1) 0%, rgba(0, 0, 0, 0) 50%, rgba(0, 40, 233, 1) 100%); */
+    /* border-block: 1px solid #009bff; */
+/* } */
+
+.bmsg {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 90%;
+    margin: 10px;
+    border-radius: 10px;
+    padding: 20px;
+}

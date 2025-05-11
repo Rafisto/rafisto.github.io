@@ -1,0 +1,27 @@
+.desktop_header,
+.mobile_header {
+    flex-shrink: 0;
+}
+
+.static_toolbar {
+    max-height: 0;
+    padding: 0;
+}
+
+@media only screen and (max-width: 600px) {
+    .desktop_header {
+        display: none;
+    }
+    .mobile_header {
+        display: block;
+    }
+}
+
+@media only screen and (min-width: 600px) {
+    .mobile_header {
+        display: none;
+    }
+    .desktop_header {
+        display: block;
+    }
+}
